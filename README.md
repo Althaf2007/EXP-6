@@ -17,10 +17,9 @@ I. Connect the multimeter at the output of kit..
 ## CIRCUIT DIAGRAM
 
 ![WhatsApp Image 2025-11-16 at 2 27 42 PM](https://github.com/user-attachments/assets/0cc26808-697f-4fef-993b-7de56631f182)
-![WhatsApp Image 2025-11-16 at 2 27 43 PM](https://github.com/user-attachments/assets/c5ca8648-5b3a-4121-a1e5-d87b0e60c642
-![WhatsApp Image 2025-11-16 at 2 27 43 PM (1)](https://github.com/user-attachments/assets/a4070fa0-993b-416e-9deb-dd03d17c1e6b)
+![WhatsApp Image 2025-11-16 at 2 27 43 PM](https://github.com/user-attachments/assets/b2a2270b-65fd-4d53-9752-6b1443680f5c)
 ![WhatsApp Image 2025-11-16 at 2 27 43 PM (2)](https://github.com/user-attachments/assets/de5df351-d262-40e9-b409-1b7c698a0c2d)
-
+![WhatsApp Image 2025-11-16 at 2 27 43 PM (1)](https://github.com/user-attachments/assets/a4070fa0-993b-416e-9deb-dd03d17c1e6b)
 
 ## OUTPUT:
 
